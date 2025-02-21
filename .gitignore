@@ -1,0 +1,6 @@
+*MODULE.bazel.lock
+bazel-TT.Fibers
+bazel-bin
+bazel-out
+bazel-testlogs
+.vscode/
